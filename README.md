@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ganeshperson
 - 👀 I’m interested in tech that inspires me
-- 🌱 I’m currently learning web 3
+- 🌱 I’m currently learning web 3 - ML
 - 💞️ I’m looking to collaborate on blockchain projects intercting with AI , IOT , METAVERSE
 - 📫 How to reach me ganeshpersonalia@gmail.com
 
